@@ -53,11 +53,8 @@ for the simple hello function. Open the out/**index.html** file in your browser
 
 ### FAQ
 
-Q: Do I need Java to run JSDoc?
+Q: Do I need Java to run JSDoc? <br />
 A: No. [Java](http://www.securelist.com/en/analysis/204792310/Kaspersky_Lab_Report_Java_under_attack_the_evolution_of_exploits_in_2012_2013) is not required. :-)
-
-Q: What is package.json
-A: Here are a few links:
 
 
 
@@ -69,12 +66,15 @@ A: Here are a few links:
 
 ### Tutorials
 
-- 
+
+- Bit old but still relevant: http://www.2ality.com/2011/08/jsdoc-intro.html
+
 
 
 #### Investigate
 
 - Dox: https://github.com/visionmedia/dox
+- Docco: http://jashkenas.github.io/docco/ + https://github.com/jashkenas/docco
 
 
 

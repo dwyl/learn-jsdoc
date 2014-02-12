@@ -1,9 +1,9 @@
-Learn Jsdoc
+Learn JSDoc
 ===========
 
 Use JSDoc and a few carefully crafted comments to document your JavaScript! 
 
-![Undocumented Code](http://i.stack.imgur.com/XtRz6.gif "Undocumented")
+![Undocumented Code](http://i.imgur.com/YYcMply.png "Undocumented")
 
 > "Good code is its own best documentation. <br />
 > As you're about to add a comment, ask yourself, <br />
@@ -50,11 +50,17 @@ for the simple hello function. Open the out/**index.html** file in your browser
 ![JSDoc Hello World Example](http://i.imgur.com/A4POXNA.png "JSDoc Hello World Example")
 
 
+The *vast* majority of JSDoc tags are useless.
+For a full list of tags see: http://usejsdoc.org/#JSDoc3_Tag_Dictionary
+
+I will update this tutorial as and when I use a new tag.
+For now I'm only using **@param**, **@returns** and **@example**
+
 
 ### FAQ
 
 Q: Do I need Java to run JSDoc? <br />
-A: No. [Java](http://www.securelist.com/en/analysis/204792310/Kaspersky_Lab_Report_Java_under_attack_the_evolution_of_exploits_in_2012_2013) is not required. :-)
+A: No. [Java](http://www.securelist.com/en/analysis/204792310/Kaspersky_Lab_Report_Java_under_attack_the_evolution_of_exploits_in_2012_2013) is ***not*** *required*. :-)
 
 
 
@@ -63,12 +69,14 @@ A: No. [Java](http://www.securelist.com/en/analysis/204792310/Kaspersky_Lab_Repo
 - JSDoc GitHub Repo https://github.com/jsdoc3/jsdoc
 - Documentation: http://usejsdoc.org/
 - Wiki: https://code.google.com/p/jsdoc-toolkit/w/list
+- Examples: https://code.google.com/p/jsdoc-toolkit/wiki/DocExamples
+- Tag Reference: https://code.google.com/p/jsdoc-toolkit/wiki/TagReference
 
 ### Tutorials
 
 
 - Bit old but still relevant: http://www.2ality.com/2011/08/jsdoc-intro.html
-
+- DailyJS (Dox): http://dailyjs.com/2011/01/20/framework-part-47/
 
 
 #### Investigate
@@ -88,7 +96,7 @@ A: No. [Java](http://www.securelist.com/en/analysis/204792310/Kaspersky_Lab_Repo
 
 ### Package.json
 
->> Move this to main node.js tutorial
+> @todo Move this to main node.js tutorial
 
 - What is package.json: http://docs.nodejitsu.com/articles/getting-started/npm/what-is-the-file-package-json
 - Interactive Guid: http://package.json.nodejitsu.com/

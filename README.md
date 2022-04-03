@@ -76,7 +76,7 @@ A: No. [Java](https://www.securelist.com/en/analysis/204792310/Kaspersky_Lab_Rep
 
 
 - Bit old but still relevant: https://www.2ality.com/2011/08/jsdoc-intro.html
-- DailyJS (Dox): https://dailyjs.com/2011/01/20/framework-part-47/
+- DailyJS (Dox): https://docs.daily.co/
 - DZone Intro: https://css.dzone.com/articles/introduction-jsdoc
 
 #### Investigate
